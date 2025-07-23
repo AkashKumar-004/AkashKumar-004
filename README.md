@@ -43,10 +43,10 @@
 | Project | Description | Demo | Code
 |--------|-------------|-------|------|
 | **📝 Blog-Website** | Full-stack MERN blog with GenAI-powered summaries, titles & theme images | [Live](https://blog-website-pi-plum.vercel.app/) | [Repo](https://github.com/AkashKumar-004/Blog-Website) |
-| **🏥 NGO Website** | Responsive nonprofit site featuring campaigns & donation integration | ---|---|
+| **🏥 NGO Website** | Responsive nonprofit site featuring campaigns & donation integration | [Live](https://npo-website.vercel.app/) | [Repo](https://github.com/AkashKumar-004/NPO-WEBSITE) |
 | **🌐 Portfolio Site** | Developer showcase with animated UI and responsive design |[Live](https://portfolio-inky-chi-31.vercel.app/) | [Repo](https://github.com/AkashKumar-004/Portfolio) |
 | **🧠 Note Summarizer** | GEMINI-powered MERN app for smart note analysis |---|---|
-| **🏟️ TurfHub** | Turf booking platform with real-time availability, authentication & admin dashboard |
+| **🏟️ TurfHub** | Turf booking platform with real-time availability, authentication & admin dashboard |--|---|
 
 ---
 
@@ -65,7 +65,7 @@
 
 ## 📩 Let's Connect
 - ✉️ Email: s.akashkumar004@gmail.com  
-- 🔗 LinkedIn: [[Profile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/akash-kumar-s-45a89927a/)  
+- 🔗 LinkedIn: [[LinkedIn](https://www.linkedin.com/in/akash-kumar-s-45a89927a/)]  
 - 🌐 Portfolio: [Portfolio Site](https://portfolio-inky-chi-31.vercel.app/)
 - 🧠 **LeetCode**: [Leetcode](https://leetcode.com/u/AK_2004/)
 
