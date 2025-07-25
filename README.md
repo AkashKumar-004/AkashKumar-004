@@ -32,7 +32,7 @@
 ---
 
 ## 🌟 AI Capabilities
-- Leveraged **Google Gemini** to auto-generate blog **titles**, **summaries**, **tags**, and **images**
+- Leveraged **Google Gemini** to auto-generate blog **summaries**, **Contents**, and **images**
 - Built AI-powered **Note Summarizer** using MERN + Gemini for dynamic note-taking
 - Created generative AI features in portfolio and blogging tools
 
@@ -46,7 +46,7 @@
 | **🏥 NGO Website** | Responsive nonprofit site featuring campaigns & donation integration | [Live](https://npo-website.vercel.app/) | [Repo](https://github.com/AkashKumar-004/NPO-WEBSITE) |
 | **🌐 Portfolio Site** | Developer showcase with animated UI and responsive design |[Live](https://portfolio-inky-chi-31.vercel.app/) | [Repo](https://github.com/AkashKumar-004/Portfolio) |
 | **🧠 Note Summarizer** | GEMINI-powered MERN app for smart note analysis |---|---|
-| **🏟️ TurfHub** | Turf booking platform with real-time availability, authentication & admin dashboard |--|---|
+| **🏟️ TurfHub** | Turf booking platform with real-time availability, authentication & admin dashboard |--|[Repo](https://github.com/AkashKumar-004/TURF-PRO)|
 
 ---
 
