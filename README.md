@@ -45,7 +45,7 @@
 | **📝 Blog-Website** | Full-stack MERN blog with GenAI-powered summaries, titles & theme images | [Live](https://blog-website-pi-plum.vercel.app/) | [Repo](https://github.com/AkashKumar-004/Blog-Website) |
 | **🏥 NGO Website** | Responsive nonprofit site featuring campaigns & donation integration | [Live](https://npo-website.vercel.app/) | [Repo](https://github.com/AkashKumar-004/NPO-WEBSITE) |
 | **🌐 Portfolio Site** | Developer showcase with animated UI and responsive design |[Live](https://portfolio-inky-chi-31.vercel.app/) | [Repo](https://github.com/AkashKumar-004/Portfolio) |
-| **🧠 Note Summarizer** | GEMINI-powered MERN app for smart note analysis |---|---|
+| **🧠 Note Summarizer** | GEMINI-powered MERN app for smart note analysis |---|[Repo](https://github.com/AkashKumar-004/Note-summarizer)|
 | **🏟️ TurfHub** | Turf booking platform with real-time availability, authentication & admin dashboard |--|[Repo](https://github.com/AkashKumar-004/TURF-PRO)|
 
 ---
